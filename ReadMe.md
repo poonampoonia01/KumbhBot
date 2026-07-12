@@ -74,7 +74,7 @@ required values to connect with the PostgreSQL database.
 
 ### Installation steps of frontend in Android studio:
 Check out at the link given below for the frontend code and its proper setup:
-  - https://github.com/sangeetanandanvishal04/KumbhBot.git
+  - git clone https://github.com/poonampoonia01/KumbhBot.git
 
 ### 9. Run the Application:
     First, Run the FastAPI Server using command prompt in VS Code: uvicorn FastAPI.main:app --reload

@@ -22,7 +22,7 @@ Follow these steps to set up and run the project in your local environment:
 ## 1. Clone the Repository
 First, clone the repository to your local machine:
     ```bash
-    git clone https://github.com/sangeetanandanvishal04/KumbhBot.git
+    git clone https://github.com/poonampoonia01/KumbhBot.git
 
 ### Installation steps of backend in VS Code editor:
 ### 2. Create and Activate a Virtual Environment
